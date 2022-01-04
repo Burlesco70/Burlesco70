@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋🏽, I'm [Mario!](https://www.linkedin.com/in/mario-nardi-017705100/) 
 
 <!--
 **Burlesco70/Burlesco70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
