@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mario's github stats](https://github-readme-stats.vercel.app/api?username=Burlesco70&show_icons=true&hide_border=true)
+<a href="https://profile-summary-for-github.com/user/Burlesco70">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Burlesco70&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Mario's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burlesco70&hide_langs_below=5&layout=compact" alt="Mario's language stats"/>
+</a>
+
